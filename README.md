@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshman UdayaKumara</h1>
+<h1 align="center">Hi 👋, I'm Lakshman Udaya</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | Based in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman636&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman636" /> </p>
